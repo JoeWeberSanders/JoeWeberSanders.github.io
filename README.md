@@ -1,5 +1,6 @@
-# Joe Sanders
+*# Joe Sanders*
 UMN Undergrad pursuing Bachelor of Science in Archicture 
+Graduating Spring 2026
 
 [Resume](https://github.com/user-attachments/files/17250271/Joseph-Sanders.2.pdf)
 
