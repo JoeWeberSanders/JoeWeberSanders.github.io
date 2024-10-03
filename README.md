@@ -7,4 +7,4 @@ ARCH 1281 Design Fundamentals 1 portfolio
 
 ARCH 2281 Design Fundamentals 2 portfolio
 
-ARCH
+ARCH 3281
